@@ -19,4 +19,4 @@ The Python Name Generator is a simple tool that generates random first names. Th
 
 ## Installation
 
-To get started with this project, download the latest Python file from the Releases section. If you have not installed Python on your computer you can by clicking [here](https://python.com)
+To get started with this project, download the latest Python file from the Releases section. If you have not installed Python on your computer you can by clicking [here](https://python.org/downloads).
